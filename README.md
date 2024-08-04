@@ -1,22 +1,17 @@
-<h1 align="center"><b>Hi , I'm Nguyen Van Truong Son </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# About me
+Hi there 👋 I'm Truong Son.
+BE/DevOps Intern Developer.
 
+![](https://komarev.com/ghpvc/?username=GoGPenguin)
 
-<br>
+### My Skills
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,vscode)](https://skillicons.dev)
 
+### 📫 How to reach me:
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A DevOps Intern Developer
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-s%C6%A1n-6bbb87175/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:son72ltv2@gmail.com)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
