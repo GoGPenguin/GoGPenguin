@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 15:00 UTC
+    - cron: "0 15 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: tr-ng-s-n-nguy-n-van
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110
