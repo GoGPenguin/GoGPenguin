@@ -1,6 +1,6 @@
 # About me
 Hi there 👋 I'm Truong Son.
-BE/DevOps Intern Developer.
+BE/DevOps Fresher.
 
 ![](https://komarev.com/ghpvc/?username=GoGPenguin)
 
