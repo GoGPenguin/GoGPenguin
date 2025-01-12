@@ -6,7 +6,7 @@ BE/DevOps Intern Developer.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,docker,vscode,terraform,aws)](https://skillicons.dev)
 
 ### 📫 How to reach me:
 
